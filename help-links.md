@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Helpful Links
+description: Useful contacts, links and numbers
 ---
 
 ## Welcome to another page
