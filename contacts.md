@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: About Us
+description: Who are we?
 ---
 
 ## Welcome to another page
