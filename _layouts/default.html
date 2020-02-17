@@ -36,7 +36,13 @@
     </header>
 
     <main id="content" class="main-content" role="main">
+      
+      
+      {% include navbar.html %}
+      
       {{ content }}
+      
+      {% include carousel.html %}
 
       <footer class="site-footer">
         {% if site.github.is_project_page %}
