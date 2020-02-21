@@ -5,7 +5,7 @@ description: This is just another page
 ---
 {% include carousel.html %}
 
-## Welcome to another page
+Page 2
 
 _yay_
 
