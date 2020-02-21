@@ -1,6 +1,6 @@
 <h2>A terror within your own best friend,
   
-  Invisible to you and me</h3>
+  Invisible to you and me</h2>
   
 {% include imagetwo.html %}
 
