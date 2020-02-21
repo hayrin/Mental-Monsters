@@ -1,6 +1,6 @@
 <h2>Sometimes it's hard to understand,
   
-  What other's are going through</h2>
+  When it's never affected you</h2>
   
 {% include imagetwo.html %}
 
