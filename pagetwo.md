@@ -1,12 +1,9 @@
----
-layout: default
-title: Another page
-description: This is just another page
----
+<h2>A terror within your own best friend,
+  
+  Invisible to you and me</h3>
+  
+{% include imagetwo.html %}
+
+<h3>description</h3>
+
 {% include carousel.html %}
-
-Page 2
-
-_yay_
-
-[back](./)
