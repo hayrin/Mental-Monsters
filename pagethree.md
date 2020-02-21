@@ -1,8 +1,8 @@
 <h2>They can make you angry,
   
-  or make you scared. Others
+  or make you scared. 
   
-  can make you feel sad</h2>
+  Others can make you feel sad</h2>
   
 {% include imagetwo.html %}
 
