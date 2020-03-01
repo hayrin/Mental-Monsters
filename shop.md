@@ -1,7 +1,7 @@
 ---
 layout: default
-title: About Us
-description: Who are we?
+title: Shop
+description: 
 ---
 
 ## Welcome to another page
