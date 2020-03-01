@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Shop
-description: 
 ---
 
 ## Welcome to another page
