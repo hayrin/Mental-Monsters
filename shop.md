@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Shop
+title: The Shop
+description: Raising Awareness
 ---
 
 ## Welcome to another page
